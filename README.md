@@ -4,5 +4,6 @@ How to prevent MySQL performance issue, Spotting query problems, Analizing queri
 1. MySQL Architechture [Details](/MySQL-Architechture.md)
 2. Spotting Query Problems [Details](/Spotting-Query-Problems.md) 
 3. Analyzing Queries [Details](/Spotting-Query-Problems.md) 
+4. The Clustered Index and Choosing the primary key [Details](/Clustered-Index-Choosing-Primary-Key.md)
 
 
