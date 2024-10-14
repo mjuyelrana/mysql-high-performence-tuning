@@ -6,5 +6,6 @@ How to prevent MySQL performance issue, Spotting query problems, Analizing queri
 3. Analyzing Queries [Details](/Spotting-Query-Problems.md) 
 4. The Clustered Index and Choosing the primary key [Details](/Clustered-Index-Choosing-Primary-Key.md)
 5. Indexing for Performance [Details](/Indexing-for-Performance.md) 
+6. MySQL composite Index [Details](/MySQL-Composite-Index.md)
 
 
