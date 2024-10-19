@@ -8,5 +8,6 @@ How to prevent MySQL performance issue, Spotting query problems, Analizing queri
 5. Indexing for Performance [Details](/Indexing-for-Performance.md) 
 6. MySQL composite Index [Details](/MySQL-Composite-Index.md)
 7. MySQL Configuration [Details](/MySQL-Configuration.md)
+8. MySQL Transactions and Locks [Details](/MySQL-Transaction-Locks.md)
 
 
